@@ -1,5 +1,3 @@
-!pip install tbvaccine 
-
 import functools
 import sys,traceback
 from tbvaccine import TBVaccine
